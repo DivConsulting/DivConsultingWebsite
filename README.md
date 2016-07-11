@@ -1,2 +1,2 @@
 # DivConsultingWebsite
-Main Div Consulting Webiste
+Main Div Consulting Website
